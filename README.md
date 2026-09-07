@@ -1,2 +1,2 @@
 # sofieappel.github.io
-This repository holds a portfolio with my environmental data science projects.
+A portfolio of environmental data science projects.
