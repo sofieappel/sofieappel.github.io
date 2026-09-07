@@ -1,6 +1,8 @@
 # Earth Data Science Portfolio
 ### Sofie Appel
 
+![bio](/img/bio_image.jpeg)
+    
 ## About Me:
 
 I am a Master’s student in Data Science at the University of Colorado Boulder. Before graduate school, I worked as a high school math teacher in Denver and Aurora. In my free time, I enjoy traveling, cooking, and knitting!
