@@ -11,6 +11,10 @@ I am a Master’s student in Data Science at the University of Colorado Boulder.
 
 I am looking forward to utilizing GIS data to investigate the impacts of climate change and gain a better understanding of the planet's patterns through the projects in this portfolio.
 
+## Projects:
+
+1. [Copper Mountain Interactive Map](https://sofieappel.github.io/copper_interactive_map)
+
 ## Contact Information:
 
 - <sofie.appel@colorado.edu>
