@@ -1,5 +1,4 @@
 # Earth Data Science Portfolio
-### Sofie Appel
 
 ![bio](/img/bio_image.jpeg)
     
