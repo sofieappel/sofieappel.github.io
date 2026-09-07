@@ -1,6 +1,9 @@
 # Earth Data Science Portfolio
 
-![bio](/img/bio_image.jpeg)
+<img
+    src = "/img/bio_image.jpeg"
+    alt = "me"
+    width = "25%">
     
 ## About Me:
 
