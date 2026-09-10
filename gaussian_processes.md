@@ -4,15 +4,16 @@
 
 ## Motivation
 
-The scikit tutorial, "Forecasting of CO2 level on Mona Loa dataset using Gaussian process regression (GPR)," 
-uses carbon dioxide ($CO_2$) concentrations from the Mauna Loa Obseratory to predict future measures of CO2 in the atmosphere. 
-Atmospheric CO2 is a direct indicator of certain climate patterns, and its levels have been increasing from the burning of fossil fuels since the Industrial Revolution. Higher levels of CO2 have many consequences on climate patterns. Higher atmospheric CO2 is a direct cause of rising atmospheric temperatures. Increased atmospheric carbon dioxide makes it more difficult for plants to grow, which absorb CO2. According to NOAA, years with higher CO2 measures have had stronger El Nino patterns, leading to extreme drought in some areas.
+The scikit tutorial, "Forecasting of CO2 level on Mauna Loa dataset using Gaussian process regression (GPR)," 
+uses carbon dioxide ($CO_2$) concentrations, in parts per million by volume (ppm), from the Mauna Loa Observatory to predict ($CO_2$) concentration in the years following 2001. As shown in initial exploratory data analysis, $CO_2$ concentration increased steadily from 1958 to 2001. Rising atmospheric $CO_2$ has significant consequences for the global climate. Because $CO_2$ absorbs heat, higher concentrations directly increase atmospheric temperatures through the greenhouse effect. According to NOAA, "carbon dioxide alone is responsible for about 80 percent of the total heating influence of all human-produced greenhouse gases since 1990." These rising temperatures contribute to more extreme weather, including drought, wildfires, and flooding. Many of these disasters destroy plant life, which would otherwise help absorb $CO_2$, creating a positive feedback loop that keeps more $CO_2$ in the atmosphere. It is therefore crucial to continue to observing $CO_2$ concentration patterns across the globe to understand how human activity is impacting the planet. 
 
-
+In this blog post, I reproduce the results of the scikit tutorial, explain the use of kernels and the mathematical reasoning behind each, and expand the results by investigating changes in the initial parameters. 
 
 ## Kernel Engineering
 
 A kernel creates a covariance function, typically using the distance between any two points within the domain of the data, so that a model can be fit based on the patterns revealed by the covariance function. We can use the trends of the data to help decide what kind of kernels to use. 
+
+![co2_trend](/img/co2_trend.png)
 
 The data has multiple trends and patterns that give reason to use multiple covariance functions, 
 or kernels, to capture the complexity and changes of CO2 measures in Mauna Loa. 
@@ -39,4 +40,6 @@ $44.8^2 * RBF(length_scale=51.6) + 2.64^2 * RBF($length_scale$=91.5) * ExpSineSq
 To show the importance of using the trends in the data to set parameters, I changed the periodicity bounds to see how the model would be impacted. 
 
 ## References
+
+
 
