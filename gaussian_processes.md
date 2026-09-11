@@ -2,6 +2,8 @@
 
 ### Sofie Appel
 
+[Technical Blog Post URL](https://sofieappel.github.io/gaussian_processes)
+
 ## Motivation
 
 The scikit tutorial, "Forecasting of CO2 level on Mauna Loa dataset using Gaussian process regression (GPR)," 
