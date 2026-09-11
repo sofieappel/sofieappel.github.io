@@ -49,9 +49,10 @@ while over a 100 year span the shrinking factor becomes:
 
 $$exp\left(-\frac{100^2}{2(100)^2}\right) \approx 0.61$$
 
-This helps to decrease the certainty of the periodic pattern as two points get farther apart in time which is important to do since this periodic pattern may change over time. Keeping the length scale large, however, makes this only a slight change. It is almost unobservable on our time scale of 43 years of observations. When expanded to look at a time span of 100 years, the difference is more noticeable: 
+This reduces the covariance between observations that are far apart in time, allowing the seasonal pattern to change gradually rather than requiring the same seasonal behavior indefinitely. Keeping the length scale large, however, makes this only a slight change. It is almost unobservable on our time scale of 43 years of observations. When expanded to look at a time span of 100 years, the difference is more noticeable: 
 
 ![comparison](/img/comparison_plot2.png)
+*Figure 3: Comparison of exponential sine squared kernel with RBF x ExpSinSquared*
 
 Next, a rational quadratic kernel was applied to fit the small irregularities of the data. Rational quadratic is an appropriate kernel to use for small irregularities since it is "equivalent to adding together many SE kernels with different lengthscales" (Duvenaud). Irregularities in the data occur at multiple, unpredictable timescales, so a kernel that has a mixture of many length-scales is a better fit than a single RBF.
 
@@ -65,7 +66,7 @@ $44.8^2 * RBF($ length_scale $=51.6) + 2.64^2 * RBF($ length_scale $=91.5) * Exp
 
 This model shows that the data has the following characteristics:
 - The long term trend has a length scale of 51.6 years, close to the 43 year time span of the data
-- The long term trend has an amplitude of 44.8, meaning over the collection period $CO_2$ concentration increased by about 44.8 ppm
+- The long term trend has an amplitude of 44.8 ppm, indicating that the trend component can produce relatively large changes in predicted $CO_2$ concentration.
 - The seasonal length scale is 1.48, meaning the seasonal trend is relatively smooth
 - The seasonal amplitude is 2.64, meaning over a year, $CO_2$ concentration can vary by about 5.28 ppm
 - The irregularities component has a length scale of 0.968 and a large alpha, meaning it captures small deviations that do not persist long
@@ -76,6 +77,7 @@ This model shows that the data has the following characteristics:
 To investigate how hyperparameter tuning changes extrapolation in Gaussian Process Regression, I changed the periodicity bound from fixed for the original model to a range of 0.9 to 1.1. A comparison of the models is shown below: 
 
 ![period_bound](/img/period_bound.png)
+*Figure 4: Comparison of extrapolation models when periodicity bound is fixed versus loose*
 
 The loosened periodicity model predicts substantially lower future $CO_2$ levels. Its optimized kernel showed significant differences from the original: 
 
