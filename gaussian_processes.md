@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Building off of "Forecasting of CO2 level on Mona Loa dataset using Gaussian process regression (GPR)"
 
 ### Sofie Appel
