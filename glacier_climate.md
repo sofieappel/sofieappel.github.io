@@ -6,7 +6,7 @@ Sofie Appel
     alt = "me"
     width = "50%">
     
-**Figure 1:** Glacier National Park, Montana, United States of America.
+*Figure 1: Glacier National Park, Montana, United States of America.*
 
 Glacier National Park has seen significant changes in its landscape since its establishment. 
 The national park in northern Montana had 150 active glaciers in 1850. Now, there are only 25 (NASA). 
@@ -33,13 +33,13 @@ from daily observations to yearly averages. The years 1896 and 2026 were then re
     width = "50%">
 </p>
 
-**Figure 2:** Left - Initial dataframe with maximum daily temperature observations. Right - Transformed dataframe with annual average maximum temperature observations in units Fahrenheit and Celsius. 
+*Figure 2: Left - Initial dataframe with maximum daily temperature observations. Right - Transformed dataframe with annual average maximum temperature observations in units Fahrenheit and Celsius.*
 
 When plotted, the average annual maximum temperatures fluctuate between about 10 and 14 degrees Celsius, with a slight overall increase over the century.
 
 <embed type="text/html" src="./annual_temp_glacier.html" width="600" height="600">
 
-**Figure 3:** Interactive plot of average annual maximum temperatures in Glacier National Park.
+*Figure 3: Interactive plot of average annual maximum temperatures in Glacier National Park.*
 
 ## Linear Regression Results
 
@@ -48,12 +48,12 @@ This means the average annual maximum temperatures have increased by about 1.5 d
 
 <p align="center">
 <img
-    src = "/img/glacer_temp_trend.png"
+    src = "/img/glacier_temp_trend.png"
     alt = "lin_reg_glacier"
     width = "75%">
 </p>
 
-**Figure 4:** The average annual maximum temperatures in Glacier have increased since 1897 and have done so at a rate of approximately 0.0122 degrees Celsius per year.
+*Figure 4: The average annual maximum temperatures in Glacier have increased since 1897 and have done so at a rate of approximately 0.0122 degrees Celsius per year.*
 
 ## References
 
