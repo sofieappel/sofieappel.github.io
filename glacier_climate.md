@@ -35,7 +35,7 @@ from daily observations to yearly averages. The years 1896 and 2026 were then re
 
 **Figure 2:** Left - Initial dataframe with maximum daily temperature observations. Right - Transformed dataframe with annual average maximum temperature observations in units Fahrenheit and Celsius. 
 
-When plotted, the average annual maximum temperatures fluctuate, with no clear trend in overall change.
+When plotted, the average annual maximum temperatures fluctuate between about 10 and 14 degrees Celsius, with a slight overall increase over the century.
 
 <embed type="text/html" src="./annual_temp_glacier.html" width="600" height="600">
 
