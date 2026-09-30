@@ -48,7 +48,7 @@ This means the average annual maximum temperatures have increased by about 1.5 d
 
 <p align="center">
 <img
-    src = "/img/glacer_trend.png"
+    src = "/img/glacer_temp_trend.png"
     alt = "lin_reg_glacier"
     width = "75%">
 </p>
