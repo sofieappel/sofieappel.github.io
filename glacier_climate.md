@@ -55,6 +55,10 @@ This means the average annual maximum temperatures have increased by about 1.5 d
 
 *Figure 4: The average annual maximum temperatures in Glacier have increased since 1897 and have done so at a rate of approximately 0.0122 degrees Celsius per year.*
 
+The notebook used to produce this analysis can be accessed [here](https://sofieappel.github.io/portfolio_posts/climate_project).
+
 ## References
 
 NASA. (2026, March 5). *World of Change: Ice Loss in Glacier National Park.* https://science.nasa.gov/earth/earth-observatory/world-of-change/glacier-national-park/
+
+National Oceanic and Atmospheric Administration, National Centers for Environmental Information. (2026). Climate Data Online (CDO). U.S. Department of Commerce. https://www.ncei.noaa.gov/cdo-web/
