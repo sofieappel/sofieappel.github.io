@@ -1,5 +1,4 @@
 # Climate Change in Glacier National Park
-Sofie Appel
 
 <img
     src = "/img/glacier.jpg"
