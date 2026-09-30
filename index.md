@@ -14,6 +14,7 @@ I am looking forward to utilizing GIS data to investigate the impacts of climate
 ## Projects:
 
 1. [Copper Mountain Interactive Map](https://sofieappel.github.io/copper_interactive_map)
+2. [Climate Change in Glacier National Park](https://sofieappel.github.io/glacier_climate)
 
 ## Contact Information:
 
