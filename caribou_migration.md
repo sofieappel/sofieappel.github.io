@@ -5,7 +5,7 @@
 **Figure 1:** *Source: NPS, K. Conger, (https://www.nps.gov/articles/000/reinderrvscaribou.htm)*
 
 
-Caribou have the longest migration of any land mammal on the planet, often covering over 2,000 miles every year (Grosvenor). Their migration is mainly motivated by their reproduction patterns and the need to avoid predators during their calving seasons, typically in late May and early June (National Park Service). Caribou descended from Eurasia, and arrived to North America via the Bering Land Bridge hundreds of thousands of years ago (Joly). 
+Caribou have the longest migration of any land mammal on the planet, often covering over 2,000 miles every year (Grosvenor). Their migration has long been studied and observed, especially by Native Alaskan communities who have relied on caribou for food and clothing (Joly). Caribou migrate to avoid predators during their calving seasons and access abundant food after calving, typically in late May and early June (National Park Service).
 
 This project investigates the migratory patterns of the species, *Rangifer tarandus* along with a subspecies of caribou, the *Rangifer tarandus granti*, also known as the Western Arctic Caribou. This subspecies is one of the largest herds that resides in North America.  
 
@@ -37,7 +37,7 @@ Because this shows the entire caribou species and many observations of many diff
 
 ## Conclusions
 
-This project highlights the challenges that can come with mapping migratory species, especially those that are mainly tracked by human observation rather than tracking devices. Because caribou are herd animals, it is challenging to effectively plot their migration with the data that is available. Further investigation could include zooming into one specific herd or a smaller region to better visualize these migration patterns. 
+This project highlights the challenges that can come with mapping migratory species, especially those that are mainly tracked by human observation rather than tracking devices. Because caribou are herd animals, it is challenging to effectively plot their migration with the data that is available. Further investigation could include zooming into one specific herd or a smaller region to better visualize these migration patterns. It is important to continue to track these animals as climate change persists so that humans are able to understand its true impact on wildlife. 
 
 
 The notebooks used to produce this analysis can be accessed at the following links:
@@ -47,11 +47,11 @@ The notebooks used to produce this analysis can be accessed at the following lin
 
 ## References
 
-Caribou vs. Reindeer. *National Park Service*. (https://www.nps.gov/articles/000/reinderrvscaribou.htm)
+Caribou vs. Reindeer. *National Park Service*. https://www.nps.gov/articles/000/reinderrvscaribou.htm
 
-Grosvenor, Madison. (2025). On beings and biomes--caribou and their migrations. *Trustees for Alaska*. (https://trustees.org/on-beings-and-biomes-caribou-and-their-migrations/)
+Grosvenor, Madison. (2025). On beings and biomes--caribou and their migrations. *Trustees for Alaska*. https://trustees.org/on-beings-and-biomes-caribou-and-their-migrations/
 
-Joly, K., Rasic, J., Mason, R., & Lukin, M. History, Purpose, and Status of Caribou Movements in Northwest Alaska. *National Park Service*. (https://www.nps.gov/articles/aps-17-1-7.htm)
+Joly, K., Rasic, J., Mason, R., & Lukin, M. History, Purpose, and Status of Caribou Movements in Northwest Alaska. *National Park Service*. https://www.nps.gov/articles/aps-17-1-7.htm
 
 
 
