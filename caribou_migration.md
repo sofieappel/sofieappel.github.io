@@ -7,7 +7,7 @@
 
 Caribou have the longest migration of any land mammal on the planet, often covering over 2,000 miles every year (Grosvenor). Their migration has long been studied and observed, especially by Native Alaskan communities who have relied on caribou for food and clothing (Joly). Caribou migrate to avoid predators during their calving seasons and to access abundant food after calving, typically in late May and early June (National Park Service).
 
-This project investigates the migratory patterns of the species, *Rangifer tarandus* along with a subspecies of caribou, the *Rangifer tarandus granti*, also known as Grant's caribou. This subspecies contains one of the largest herds that resides in North America, the Western Arctic Caribou.  
+This project investigates the migratory patterns of the species, *Rangifer tarandus* along with a subspecies of caribou, the *Rangifer tarandus granti*, also known as Grant's caribou. This subspecies contains one of the largest herds that resides in North America, the Western Arctic Caribou. The data comes from the Global Biodiversity Information Facility (GBIF) which contains accounts of observations of many different species. The caribou data is mainly from human observation.  
 
 Both of these datasets had their own limits, which highlights the challenges that can come with mapping migratory species. Filtering down to *Rangifer tarandus granti* limits the number of observations. This is why all of the 21st century data on this subspecies was kept, rather than filtering down to just one year. 
 
