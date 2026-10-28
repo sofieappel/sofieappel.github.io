@@ -47,11 +47,11 @@ The notebooks used to produce this analysis can be accessed at the following lin
 
 ## References
 
-Caribou vs. Reindeer. *National Park Service*. https://www.nps.gov/articles/000/reinderrvscaribou.htm
+Caribou vs. Reindeer. *National Park Service*. (https://www.nps.gov/articles/000/reinderrvscaribou.htm)
 
-Grosvenor, Madison. (2025). On beings and biomes--caribou and their migrations. *Trustees for Alaska*. https://trustees.org/on-beings-and-biomes-caribou-and-their-migrations/
+Grosvenor, Madison. (2025). On beings and biomes--caribou and their migrations. *Trustees for Alaska*. (https://trustees.org/on-beings-and-biomes-caribou-and-their-migrations/)
 
-Joly, K., Rasic, J., Mason, R., & Lukin, M. History, Purpose, and Status of Caribou Movements in Northwest Alaska. *National Park Service*. https://www.nps.gov/articles/aps-17-1-7.htm
+Joly, K., Rasic, J., Mason, R., & Lukin, M. History, Purpose, and Status of Caribou Movements in Northwest Alaska. *National Park Service*. (https://www.nps.gov/articles/aps-17-1-7.htm)
 
 
 
