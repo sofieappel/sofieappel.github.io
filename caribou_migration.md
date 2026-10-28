@@ -5,7 +5,7 @@
 **Figure 1:** *Source: NPS, K. Conger, (https://www.nps.gov/articles/000/reinderrvscaribou.htm)*
 
 
-Caribou have the longest migration of any land mammal on the planet, often covering over 2,000 miles every year (Grosvenor). Their migration has long been studied and observed, especially by Native Alaskan communities who have relied on caribou for food and clothing (Joly). Caribou migrate to avoid predators during their calving seasons and access abundant food after calving, typically in late May and early June (National Park Service).
+Caribou have the longest migration of any land mammal on the planet, often covering over 2,000 miles every year (Grosvenor). Their migration has long been studied and observed, especially by Native Alaskan communities who have relied on caribou for food and clothing (Joly). Caribou migrate to avoid predators during their calving seasons and to access abundant food after calving, typically in late May and early June (National Park Service).
 
 This project investigates the migratory patterns of the species, *Rangifer tarandus* along with a subspecies of caribou, the *Rangifer tarandus granti*, also known as Grant's caribou. This subspecies contains one of the largest herds that resides in North America, the Western Arctic Caribou.  
 
@@ -16,7 +16,7 @@ Both of these datasets had their own limits, which highlights the challenges tha
     <img src="img/caribou_observations.jpg" width="49%" />
 </p>
 
-**Figure 2:** *There are much fewer observations of Grant's caribou from 2004-2025 than there are for just one single year of the entire caribou species in 2024.*
+**Figure 2:** *There are far fewer observations of Grant's caribou from 2004-2025 than there are for just one single year of the entire caribou species in 2024.*
 
 Another limit of mapping caribou migration patterns is that most of the observations are from summer months, since they reside in colder climates. This means that the map during winter months may not be as informational as it is for summer months.
 
@@ -53,4 +53,7 @@ Grosvenor, Madison. (2025). On beings and biomes--caribou and their migrations. 
 Joly, K., Rasic, J., Mason, R., & Lukin, M. History, Purpose, and Status of Caribou Movements in Northwest Alaska. *National Park Service*. https://www.nps.gov/articles/aps-17-1-7.htm
 
 
+## Data Source
+
+GBIF.org (14 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.kwn3cz
 
