@@ -16,20 +16,20 @@ Both of these datasets had their own limits, which highlights the challenges tha
     <img src="img/caribou_observations.jpg" width="49%" />
 </p>
 
-*Figure 2:** *There are much fewer Western Arctic Caribou observations from 2004-2025 than there are for just one single year of the entire caribou species in 2024.*
+**Figure 2:** *There are much fewer Western Arctic Caribou observations from 2004-2025 than there are for just one single year of the entire caribou species in 2024.*
 
 Another limit of mapping caribou migration patterns is that most of the observations are from summer months, since they reside in colder climates. This means that the map during winter months is may not be as informational as it is for summer months.
 
 <embed type="text/html" src="./img/caribou_migration.html" width="1200" height="800">
 
-*Figure 3:** *Western Arctic Caribou migration by month from 2004-2025.*
+**Figure 3:** *Western Arctic Caribou migration by month from 2004-2025.*
 
 This map clearly shows the difference in the difference in the number of observations that are taken during summer and winter months, more than it shows the migration patterns of Wester Arctic Caribou. It also shows how using ecoregions can be misleading since once there are observations in the tundra biome, it appears that there are observations of caribou in Antarctica which is not accurate. 
 
 
 <embed type="text/html" src="./img/global_caribou_migration.html" width="1200" height="800">
 
-*Figure 4:** *Caribou migration in 2024 by month.*
+**Figure 4:** *Caribou migration in 2024 by month.*
 
 Because this shows the entire caribou species and many observations of many different herds, it is difficult to observe their seasonal patterns via this map. This map does illustrate how there are many more observations during summer months and that those observations appear to occur more north than in the winter months, which is confirmed by literature on their migratory habits. 
 
