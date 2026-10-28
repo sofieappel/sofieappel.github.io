@@ -29,15 +29,14 @@ This map clearly shows the difference in the number of observations that are tak
 
 <embed type="text/html" src="./img/global_caribou_migration.html" width="1200" height="800">
 
-**Figure 4:** *Caribou migration in 2024 by month.*
+**Figure 4:** *Caribou migration in 2024 by month. October and December resulted in blank maps because no records exist after the ecoregion join.*
 
-Because this shows the entire caribou species and many observations of many different herds, it is difficult to observe their seasonal patterns via this map. This map does illustrate how there are many more observations during summer months and that those observations appear to occur more north than in the winter months, which is confirmed by literature on their migratory habits. 
-
+Because this shows the entire caribou species and many observations of many different herds, it is difficult to observe their seasonal patterns via this map. This map does illustrate how there are many more observations during summer months and that those observations appear to occur more north than in the winter months, which is confirmed by literature on their migratory habits (Joly). 
 
 
 ## Conclusions
 
-This project highlights the challenges that can come with mapping migratory species, especially those that are mainly tracked by human observation rather than tracking devices. Because caribou are herd animals, it is challenging to effectively plot their migration with the data that is available. Further investigation could include zooming into one specific herd or a smaller region to better visualize these migration patterns. It is important to continue to track these animals as climate change persists so that humans are able to understand its true impact on wildlife. 
+This project highlights the challenges that can come with mapping migratory species, especially those that are mainly tracked by human observation rather than tracking devices. Because data on caribou is opportunistic and seasonal rather than tracked movement, it is challenging to effectively plot their migration with the data that is available. Further investigation could include zooming into one specific herd or a smaller region to better visualize these migration patterns. It is important to continue to track these animals as climate change persists so that humans are able to understand its true impact on wildlife. 
 
 
 The notebooks used to produce this analysis can be accessed at the following links:
