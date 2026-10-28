@@ -40,8 +40,8 @@ This project highlights the challenges that can come with mapping migratory spec
 
 
 The notebooks used to produce this analysis can be accessed at the following links:
-1. [*Rangifer tarandus granti*](https://github.com/sofieappel/sofieappel.github.io/blob/main/migration_project.ipynb)
-2. [*Rangifer tarandus*](https://github.com/sofieappel/sofieappel.github.io/blob/main/migration_project_pt2.ipynb)
+1. [*Rangifer tarandus granti*](https://sofieappel.github.io/portfolio_posts/migration_project)
+2. [*Rangifer tarandus*](https://sofieappel.github.io/portfolio_posts/migration_project_pt2)
 
 
 ## References
