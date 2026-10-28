@@ -1,4 +1,4 @@
-# Caribou Migration in Alaska
+# Caribou Migration
 
 <img src="img/caribou_image.jpg" width="20%">
 
